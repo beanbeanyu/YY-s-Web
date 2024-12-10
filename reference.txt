@@ -1,0 +1,8 @@
+Name: 
+Yan Yang(YY)
+Partner’s name: 
+Jiahui Jing(Elina)
+The object description you received:
+ I lost a brown bean wallet in NYC before. It has a brown belt on the right side and a light gray circle button on the belt.
+My assignment reflections:
+First, I searched for keywords based on the description of the object provided by Elina and found a reference for this object (wallet) on the Internet. Based on the reference and my imagination, I drew the wallet. Later, when coding, I tried to use the RGB value to find the brown color. After several attempts, I failed to find the value of brown. Later, through learning on the Internet, I learned how to adjust the value to the brown area and change the depth of brown.

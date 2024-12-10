@@ -1,0 +1,6 @@
+- Your name
+Yan Yang
+- Your proposal, including game description and storyboards
+The inspiration comes from my daily life. I like to go fishing with my friends and my parents in my spare time, so I created the fishing game. It is a mini game, especially people can play this during they are pooping or they are having a short break. The introduction of the game is using mouse to move the fisher and use "space", w" and"s" to control the fishing line. The goal of the game is catching all of the fish and dont catch the booms. If catch the boom, you will die and you can press"r" to restart the game.
+- Your assignment reflections
+It is a really interesting assignment! eventhough when we were creating the game, we had too much bugs to solve or we had to learn more coding knowledge. For me, I think in the beginning of the coding, collides coding is a little bit hard to learn, but afetr I knew how to do it, it turned easier and I feel so successful!!!!!!!

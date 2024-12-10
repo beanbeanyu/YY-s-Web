@@ -1,0 +1,10 @@
+1.
+This is a program that records three different types of apps I use on my mobile phone every day. The three categories are social, creative and entertainment. The different colored circles represent Tuesday through Monday.
+2. 
+When the mouse is hovering over a colored circle, the corresponding three types of data analysis are revealed.
+3.
+First, I recorded my phone usage data from Tuesday to Monday using the phone's automatic recording technology. Secondly, I designed the background image with procreate (to express that when others look at coding, it is like using mobile phones), mouse image and three types of representative images, and then imported them into P5js respectively. Then I use arrayofnumber to record the data for each day, and draw different colored circles to represent the seven days of the week. Then repeat the rectangle representing the data with loop. Then set the mouse image.
+4. 1.
+    I find that I use my phone a lot. Although I use it for a long time, I use it at night rather than during the day. Because I have a bad habit that I need to play some movies or sounds on my mobile phone to accompany me when I sleep. This has led to my often high score in the entertainment category.
+    2. 
+    I learned how to visualize my data by coding method, not just through some basic tables or data graphs.

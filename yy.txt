@@ -1,0 +1,6 @@
+Your design process. Include your design sketches.
+My desine sketche is on my Ipad,so I can bring it next class. I designed a dog head because I love dog sooooo much!
+What have you discovered about the form you've chosen through this assignment?
+In the beginning of learning the new knowledge of coding, I feel so confused about keypress and random part, but after I know how it works, it became easier to made.
+Design process:
+I use different shapes to build a dog head first. And then I random the background color, eyes and nose. Finally, I added the keypress coding for changing the size of the eyes, nose and the background color.

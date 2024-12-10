@@ -1,0 +1,6 @@
+Write a description for your experimental clock. How is it novel to you and how might it alter the way you track / keep time? 
+This is a clock that shows how your mood changes throughout the day. The circle moving to the right represents the 24 hours of a day. The circles moving up and down represent different emotions. The bottom circle represents a specific emotional value of happiness. Blue for unhappy, green for general, red is happy mood.
+Describe your design process. Include all three of your design sketches and explain how you’ve ended up choosing one. 
+I did a couple of examples with circles. I chose this as my assignment because the other two were having problems while I was programming, so I dropped them.
+What’s your overall reflection on this assignment? What have you learned throughout the process of designing an unconventional clock?
+This knowledge is a little difficult for me to understand. In addition to programming, as an international student, there are some specific English words that are difficult to understand. if else it's easy to understand, but the timer is really hard to understand... But fortunately, I learned them through self-study. Hopefully, the programming content will not be as difficult to understand as this week's ahhhhhhh (please God)
